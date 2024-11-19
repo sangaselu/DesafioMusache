@@ -38,5 +38,14 @@ npm start
 ```
 Luego se abrirá de manera automática en el localhost con su respectivo puerto permitido
 
+![image](https://github.com/user-attachments/assets/9e3fe378-2058-4d16-9c66-e4481cfa75b4)
+
+## Despliegue en servidor ⏏️
+- Generar build para poder ser subido a hosting
+```bash
+npm run build
+```
+- Subir el contenido de interno de build para colocarlo en public_html
 ## Site On Live ☁️
 ![me](screen-capture.gif)
+
