@@ -1,7 +1,6 @@
 # Desafío Musache Frontend
-¡Hola! 👋 Bienvenido al Desafío Musache Frontend, el frontend de nuestro proyecto desarrollado con React. A continuación, te explico paso a paso cómo configurarlo y ejecutarlo en tu máquina local para que puedas empezar a trabajar sin problemas.
 
-## Requisitos Previos
+## Requisitos Previoshttps://github.com/sangaselu/DesafioMusacheFrontEnd/blob/main/README.md
 - Node.js (versión 16 o superior, idealmente)
 - npm (viene incluido con Node.js)
 Construido Con 🛠️
