@@ -41,4 +41,4 @@ npm start
 Luego se abrirá de manera automática en el localhost con su respectivo puerto permitido
 
 ## Site On Live ☁️
-![me]([https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif](https://github.com/sangaselu/DesafioMusacheFrontEnd/blob/main/screen-capture.gif))
+![me](screen-capture.gif)
